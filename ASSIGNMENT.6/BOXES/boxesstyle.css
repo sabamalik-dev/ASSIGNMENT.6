@@ -1,0 +1,112 @@
+
+
+ .main{
+    border:10px solid red;
+    width: 350px; 
+    height:20%
+}
+.main{
+    margin: auto;
+}
+.main{
+    padding: 12px 10px 9px;
+}
+h1{
+    border: 3px solid salmon;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+    background-color: aqua;
+    height: 70px;
+}
+.text{
+    color: brown;
+    font-style: italic;
+}
+.nav:first-letter{
+    font-size: 50px;
+    font-style: italic;
+
+}
+.nav{
+    color: green;
+}
+span{
+    text-decoration: underline;
+}
+#div{
+    color: red;
+    text-decoration: none;
+}
+.smart{
+    color: blueviolet;
+}
+.para:first-line{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: oblique;
+}
+.para::first-letter{
+    font-size: 25px;
+}
+.para{
+    color:#983274;
+}
+.ponit{
+    background-color: aqua;
+}
+.grate{
+    background-color: red;
+}
+.like{
+    background-color: salmon;
+}
+.good{
+    background-color: sandybrown;
+}
+.div{
+     border: 5px;
+     color: blue;
+     border-style:solid;
+     min-width: 50px;
+     max-width: 300px;
+     overflow: scroll;
+}
+.div{
+    margin: auto;
+}
+.div{
+    padding: 12px 10px 12px;
+}
+.div{
+    border-left-style: dotted;
+    border-top-style: dashed;
+    border-right-style: double;
+    border-bottom-style:dashed;
+    border-spacing: 20px;
+}
+.book{
+    color:rgb(174, 0, 255);
+}
+.book::first-letter{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+.about{
+    color: salmon;
+}
+.link{
+    color: seagreen;
+}
+.link:first-line{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+.link::first-letter{
+    font-size: 30px;
+}
+
